@@ -1,4 +1,5 @@
 # Mixing Python 2 and 3 kernels with `runtime.txt`
+test
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/binder-examples/python2_with_3/master)
 
